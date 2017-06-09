@@ -202,3 +202,6 @@ File Name,Page URL,Encoding,PREV,PAGE,NEXT,LAST,FIRST,failed,comment
 201,http://www.darkveins.com/,UTF-8,,,,,,,
 202,http://www.darkveins.com/horror-news/,UTF-8,,.page,#tie-next-page a,.last,,,
 203,http://www.darkveins.com/horror-news/page/20/,UTF-8,a:nth-child(5),.page,#tie-next-page a,.last,.first,,
+204,http://www.networkworld.com/article/3112727/virtualization/hot-products-from-vmworld-2016.html,UTF-8,,,div.with-image:nth-child(1) > span:nth-child(1) > a:nth-child(1),,,,
+205,http://www.networkworld.com/article/3112727/virtualization/hot-products-from-vmworld-2016.html#slide1,UTF-8,,,#all_slides_modal > div > div > div.slides > div:nth-child(2) > span > a:nth-child(1),,,,
+206,http://www.networkworld.com/article/3112727/virtualization/hot-products-from-vmworld-2016.html#slide2,UTF-8,#ss-nav-2 > a:nth-child(1),,#ss-nav-2 > a:nth-child(2),,,,
